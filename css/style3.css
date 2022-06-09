@@ -290,11 +290,26 @@
 @media screen and (max-width:768px) {
     .form {
       display: block;
-      max-width:400px;
       margin-left: 0.3rem;
     }
 
-
+    .container {
+      width: 400px;
+    }
+    
+    .inputs {
+      margin-left: 25px;
+      margin-right: 25px;
+      width:260px;
+    }
+    
+    a {
+      width: 200px;
+    }
+    
+    span {
+      font-size: 0.9rem;
+    }
   }
 
 
